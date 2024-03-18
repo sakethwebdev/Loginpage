@@ -174,7 +174,7 @@ body{
 }
 
 .container.active .toggle{
-    transform: translateX(50%);
+    transform: translateX(60%);
 }
 
 .toggle-panel{
